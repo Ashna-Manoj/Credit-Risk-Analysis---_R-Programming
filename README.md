@@ -3,7 +3,7 @@
 ● Developed a model to classify safe and unsafe credit card applicants, forecast and detect outliers by building a supervised predictive logistic model. <br>
 ● Implemented Bagging and Boosting techniques as well as other Ensemble methods.
 
-A Quick Intro: <br>
+A Quick Look: <br>
 The German Credit Dataset was used for this project. <br>
 1. Missing Values Manipulation <br>
 2. Univariable Analysis, Correlation Matrix <br>
